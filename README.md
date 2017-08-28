@@ -3,6 +3,8 @@ Leaflet Maps with Google Sheets - polygons-version for teaching purposes
 
 MY Laeflet Map  https://ginaalina.github.io/MY-leaflet-maps-with-google-sheets-polygons/ 
 
+My GoogleSheet    https://docs.google.com/spreadsheets/d/1JMhwKvYThrB6PlOA0_3a23Nix6JN0DT37Wr-WdSvLt4/edit#gid=0
+
 
 --------------------
 ## Live links (replace with your own)
